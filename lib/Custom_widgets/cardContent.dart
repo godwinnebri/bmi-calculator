@@ -1,13 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:bmi_calculator/constants.dart';
 
-//cardContent widget
-
-// const cardTextStyle = TextStyle(
-//   fontSize: 18.0,
-//   color: Color(0xFF8D8E98),
-// );
-
 class CardContent extends StatelessWidget {
   CardContent({this.icon, this.label});
 

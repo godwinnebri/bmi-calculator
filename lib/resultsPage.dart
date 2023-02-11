@@ -14,12 +14,6 @@ class ResultsPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // double resultValue = 28.4;
-    // String resultResponse;
-
-    // resultResponse =
-    //     'You have a higher than normal body weight, Try to excercise more.';
-
     return Scaffold(
       // appBar: AppBar(
       //   title: Text('BMI CALCULATOR'),
